@@ -1,0 +1,2 @@
+# Lab04_To_DoApp
+ The objective of this assignment is to develop a mobile application using Android Studio and Kotlin that implements various key components of Android development, including SQLite databases with Room library, Kotlin Coroutines, RecyclerView, and ViewModel. Students will create a dynamic task management app that allows users to add, delete, update, and view tasks using a modern and efficient architecture.
